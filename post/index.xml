@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Hello Haileys</title>
+    <link>https://hellohaileys.github.io/post/</link>
+    <description>Recent content in Post on Hello Haileys</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Mar 2018 22:10:50 -0800</lastBuildDate>
+    
+	<atom:link href="https://hellohaileys.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://hellohaileys.github.io/post/hello/</link>
+      <pubDate>Wed, 07 Mar 2018 22:10:50 -0800</pubDate>
+      
+      <guid>https://hellohaileys.github.io/post/hello/</guid>
+      <description>Hello World, this is my first post!</description>
+    </item>
+    
+  </channel>
+</rss>
