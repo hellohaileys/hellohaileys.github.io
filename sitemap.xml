@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hellohaileys.github.io/blog/hes_gotta_love_your_natural_hair0/</loc>
+    <lastmod>2018-03-08T13:16:17-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hellohaileys.github.io/blog/hes_gotta_love_your_natural_hair/</loc>
     <lastmod>2018-03-08T13:16:17-08:00</lastmod>
   </url>
@@ -33,12 +38,6 @@
   </url>
   
   <url>
-    <loc>https://hellohaileys.github.io/categories/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hellohaileys.github.io/blog/</loc>
     <lastmod>2018-03-08T13:16:17-08:00</lastmod>
     <priority>0</priority>
@@ -46,7 +45,6 @@
   
   <url>
     <loc>https://hellohaileys.github.io/categories/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -63,6 +61,12 @@
   <url>
     <loc>https://hellohaileys.github.io/</loc>
     <lastmod>2018-03-08T13:16:17-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hellohaileys.github.io/categories/hello-things/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,50 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Haileys</title>
+    <title>Categories on Hello Haileys</title>
     <link>https://hellohaileys.github.io/categories/</link>
-    <description>Recent content on Hello Haileys</description>
+    <description>Recent content in Categories on Hello Haileys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hellohaileys.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Curl Stuff</title>
-      <link>https://hellohaileys.github.io/hellothings/item1/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Hair</title>
+      <link>https://hellohaileys.github.io/categories/hair/</link>
+      <pubDate>Thu, 08 Mar 2018 13:16:17 -0800</pubDate>
       
-      <guid>https://hellohaileys.github.io/hellothings/item1/</guid>
-      <description> App 1 </description>
+      <guid>https://hellohaileys.github.io/categories/hair/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Fancy App 2</title>
-      <link>https://hellohaileys.github.io/hellothings/item2/</link>
+      <title>Hello Things</title>
+      <link>https://hellohaileys.github.io/categories/hello-things/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://hellohaileys.github.io/hellothings/item2/</guid>
-      <description> App 2 </description>
+      <guid>https://hellohaileys.github.io/categories/hello-things/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Fancy App 3</title>
-      <link>https://hellohaileys.github.io/hellothings/item3/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Love</title>
+      <link>https://hellohaileys.github.io/categories/love/</link>
+      <pubDate>Thu, 08 Mar 2018 13:16:17 -0800</pubDate>
       
-      <guid>https://hellohaileys.github.io/hellothings/item3/</guid>
-      <description> App 3 </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 4</title>
-      <link>https://hellohaileys.github.io/hellothings/item4/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://hellohaileys.github.io/hellothings/item4/</guid>
-      <description> App 4 </description>
+      <guid>https://hellohaileys.github.io/categories/love/</guid>
+      <description></description>
     </item>
     
   </channel>

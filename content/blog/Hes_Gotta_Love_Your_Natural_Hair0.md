@@ -7,7 +7,7 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "He's Gotta Love Your Natural Hair"
+title = "He's Gotta Love You"
 type = "post"
 
 +++
