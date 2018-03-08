@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hellohaileys.github.io/post/post1/</loc>
-    <lastmod>2018-03-08T00:19:51-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hellohaileys.github.io/blog/testing/</loc>
-    <lastmod>2018-03-08T00:15:36-08:00</lastmod>
+    <loc>https://hellohaileys.github.io/blog/hes_gotta_love_your_natural_hair/</loc>
+    <lastmod>2018-03-08T13:16:17-08:00</lastmod>
   </url>
   
   <url>
@@ -33,23 +28,8 @@
   </url>
   
   <url>
-    <loc>https://hellohaileys.github.io/blog/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hellohaileys.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hellohaileys.github.io/blog/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hellohaileys.github.io/blog/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -60,7 +40,7 @@
   
   <url>
     <loc>https://hellohaileys.github.io/blog/</loc>
-    <lastmod>2018-03-08T00:15:36-08:00</lastmod>
+    <lastmod>2018-03-08T13:16:17-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,14 +55,14 @@
   </url>
   
   <url>
-    <loc>https://hellohaileys.github.io/categories/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://hellohaileys.github.io/categories/hair/</loc>
+    <lastmod>2018-03-08T13:16:17-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hellohaileys.github.io/</loc>
-    <lastmod>2018-03-08T00:19:51-08:00</lastmod>
+    <lastmod>2018-03-08T13:16:17-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -93,31 +73,13 @@
   </url>
   
   <url>
-    <loc>https://hellohaileys.github.io/categories/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hellohaileys.github.io/post/</loc>
-    <lastmod>2018-03-08T00:19:51-08:00</lastmod>
+    <loc>https://hellohaileys.github.io/categories/love/</loc>
+    <lastmod>2018-03-08T13:16:17-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hellohaileys.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hellohaileys.github.io/tags/tutorial/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hellohaileys.github.io/categories/vibes/</loc>
-    <lastmod>2018-03-08T00:19:51-08:00</lastmod>
     <priority>0</priority>
   </url>
   
