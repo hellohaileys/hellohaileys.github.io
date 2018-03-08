@@ -3,116 +3,114 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hellohaileys.com/post/testing/</loc>
-    <lastmod>2018-03-07T23:39:22-08:00</lastmod>
+    <loc>https://hellohaileys.github.io/post/hello/</loc>
+    <lastmod>2018-03-07T22:10:50-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/itemized/item1/</loc>
+    <loc>https://hellohaileys.github.io/itemized/item1/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/itemized/item2/</loc>
+    <loc>https://hellohaileys.github.io/itemized/item2/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/itemized/item3/</loc>
+    <loc>https://hellohaileys.github.io/itemized/item3/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/itemized/item4/</loc>
+    <loc>https://hellohaileys.github.io/itemized/item4/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/blog/creating-a-new-theme/</loc>
+    <loc>https://hellohaileys.github.io/blog/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/about/</loc>
+    <loc>https://hellohaileys.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/blog/goisforlovers/</loc>
+    <loc>https://hellohaileys.github.io/blog/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/blog/hugoisforlovers/</loc>
+    <loc>https://hellohaileys.github.io/blog/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/categories/</loc>
+    <loc>https://hellohaileys.github.io/categories/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/blog/</loc>
+    <loc>https://hellohaileys.github.io/blog/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/categories/</loc>
+    <loc>https://hellohaileys.github.io/categories/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/contact/</loc>
+    <loc>https://hellohaileys.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/categories/go/</loc>
+    <loc>https://hellohaileys.github.io/categories/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/</loc>
-    <lastmod>2018-03-07T23:39:22-08:00</lastmod>
+    <loc>https://hellohaileys.github.io/</loc>
+    <lastmod>2018-03-07T22:10:50-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/categories/hugo/</loc>
+    <loc>https://hellohaileys.github.io/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/itemized/</loc>
+    <loc>https://hellohaileys.github.io/itemized/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/post/</loc>
-    <lastmod>2018-03-07T23:39:22-08:00</lastmod>
+    <loc>https://hellohaileys.github.io/post/</loc>
+    <lastmod>2018-03-07T22:10:50-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/tags/</loc>
+    <loc>https://hellohaileys.github.io/post/testing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hellohaileys.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hellohaileys.com/tags/tutorial/</loc>
+    <loc>https://hellohaileys.github.io/tags/tutorial/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hellohaileys.com/categories/vibes/</loc>
-    <lastmod>2018-03-07T23:39:22-08:00</lastmod>
     <priority>0</priority>
   </url>
   

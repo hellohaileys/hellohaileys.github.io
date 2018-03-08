@@ -1,4 +1,4 @@
-baseurl = "https://hellohaileys.com"
+baseurl = "https://hellohaileys.github.io/"
 languageCode = "en-us"
 title = "Hello Haileys"
 theme = "hugo-future-imperfect"
@@ -13,9 +13,9 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "Our blog #Vibes"
+  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Hello Haileys"
+  navbarTitle          = "Future Imperfect"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -74,11 +74,11 @@ canonifyURLs = true
 # prefer to use. See Staticman.yml for additional settings.
 [params.staticman]
   # Sets Statiman to be active
-  staticman = true
+  staticman = false
   # Sets the location for Staticman to connect to
-  username  = "jordanhailey"
-  repo      = "hellohaileys.github.io"
-  branch    = "master"
+  username  = ""
+  repo      = ""
+  branch    = ""
 
   [params.staticman.recaptcha]
     sitekey = "SITE_KEY"
@@ -87,11 +87,11 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Hello Haileys"
+  header    = "Hugo Future Imperfect"
 
-  paragraph = "Hope this works"
+  paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
 
-  about     = "This is our blog"
+  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -102,7 +102,7 @@ canonifyURLs = true
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
-    alt       = "Hello Haileys logo"
+    alt       = "Hugo Future Imperfect"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
@@ -151,7 +151,7 @@ canonifyURLs = true
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = ""
+  github           = "jpescador/hugo-future-imperfect"
   gitlab           = ""
   stackoverflow    = "" # User Number
   bitbucket        = ""
@@ -159,22 +159,22 @@ canonifyURLs = true
   codepen          = ""
   # Visual Art Communities
   deviantart       = ""
-  flickr           = ""
+  flickr           = "example"
   behance          = ""
   dribbble         = ""
   # Publishing Communities
   wordpress        = ""
   medium           = ""
   # Professional/Business Oriented Communities
-  linkedin         = ""
-  linkedin_company = ""
+  linkedin         = "example"
+  linkedin_company = "examplebusiness"
   foursquare       = ""
   xing             = ""
   slideshare       = ""
   # Social Networks
-  facebook         = ""
+  facebook         = "example"
   googleplus       = ""
-  reddit           = ""
+  reddit           = "example"
   quora            = ""
   youtube          = ""
   vimeo            = ""
@@ -182,16 +182,16 @@ canonifyURLs = true
     # WeChat and QQ need testing.
     wechat         = ""
     qq             = "" # User ID Number
-  instagram        = "@hellohaileys"
+  instagram        = "example"
   tumblr           = ""
-  twitter          = ""
+  twitter          = "example"
   skype            = ""
   snapchat         = ""
-  pinterest        = ""
-  telegram         = ""
+  pinterest        = "example"
+  telegram         = "example"
   vine             = ""
   googlescholar    = ""
   orcid            = ""
-  researchgate     = ""
+  researchgate     = "example"
   # Email
-  email            = "hellohaileysblog@gmail.com"
+  email            = "example"

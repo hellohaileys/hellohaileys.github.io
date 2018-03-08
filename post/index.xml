@@ -2,25 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post on Hello Haileys</title>
-    <link>https://hellohaileys.com/post/</link>
+    <link>https://hellohaileys.github.io/post/</link>
     <description>Recent content in Post on Hello Haileys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Mar 2018 23:39:22 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Mar 2018 22:10:50 -0800</lastBuildDate>
     
-	<atom:link href="https://hellohaileys.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hellohaileys.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Testing</title>
-      <link>https://hellohaileys.com/post/testing/</link>
-      <pubDate>Wed, 07 Mar 2018 23:39:22 -0800</pubDate>
+      <title>Hello World</title>
+      <link>https://hellohaileys.github.io/post/hello/</link>
+      <pubDate>Wed, 07 Mar 2018 22:10:50 -0800</pubDate>
       
-      <guid>https://hellohaileys.com/post/testing/</guid>
-      <description>This is a test for Diane&amp;rsquo;s blog.
-This is bold
-#Header regular text italic
-JORDAN is great DIANE is amazing</description>
+      <guid>https://hellohaileys.github.io/post/hello/</guid>
+      <description>Diane iz da greatest bloggerrrr.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hellohaileys.github.io/post/testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hellohaileys.github.io/post/testing/</guid>
+      <description></description>
     </item>
     
   </channel>
