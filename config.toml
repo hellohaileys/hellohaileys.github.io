@@ -128,11 +128,11 @@ canonifyURLs = true
   identifier = "fa fa-newspaper-o"
   weight = 3
 
-[[menu.main]]
-  name = "Things We Use"
-  url = "/hellothings/"
-  identifier = "fa fa-list"
-  weight = 4
+#[[menu.main]]
+#  name = "Things We Use"
+#  url = "/hellothings/"
+#  identifier = "fa fa-list"
+#  weight = 4
 
 [[menu.main]]
   name = "Categories"

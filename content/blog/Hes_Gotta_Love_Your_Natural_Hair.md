@@ -1,7 +1,7 @@
 +++
-author = "D Hailey"
-categories = ["Hair", "Love"]
-date = "2018-03-08T13:16:17-08:00"
+author = "Diane"
+categories = ["Love", "Confidence"]
+date = "2018-03-05T12:00:00-08:00"
 description = "Some thoughts about love and hair."
 featured = ""
 featuredalt = ""
@@ -12,7 +12,7 @@ type = "post"
 
 +++
 
-<img class="aligncenter size-large wp-image-55" src="https://hellohaileys.files.wordpress.com/2018/02/dsc_3685.jpg?w=1368" alt="DSC_3685" width="684" height="1024" />
+<img class="image featured" src="https://hellohaileys.files.wordpress.com/2018/02/dsc_3685.jpg?w=1368" alt="DSC_3685"/>
 
 I remember the night I met Jordan. I had just cut my hair pretty short and was attempting to rock corn rows on the side with the rest of my curls. The hair cut didn't quite go as planned and I didn't feel like I was looking my prettiest.
 
