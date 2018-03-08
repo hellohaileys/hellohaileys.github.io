@@ -1,13 +1,13 @@
----
-author: ""
-categories: [""]
-date: {{ .Date }}
-description: ""
-featured: ""
-featuredalt: ""
-featuredpath: ""
-linktitle: ""
-title: ""
-type: "post"
++++
+author= ""
+categories= [""]
+date= {{ .Date }}
+description= ""
+featured= ""
+featuredalt= ""
+featuredpath= ""
+linktitle= ""
+title= ""
+type= "post"
 
----
++++
