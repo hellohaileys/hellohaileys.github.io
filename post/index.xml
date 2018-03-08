@@ -6,27 +6,20 @@
     <description>Recent content in Post on Hello Haileys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Mar 2018 22:10:50 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Mar 2018 00:19:51 -0800</lastBuildDate>
     
 	<atom:link href="https://hellohaileys.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello World</title>
-      <link>https://hellohaileys.github.io/post/hello/</link>
-      <pubDate>Wed, 07 Mar 2018 22:10:50 -0800</pubDate>
+      <title>Title 1</title>
+      <link>https://hellohaileys.github.io/post/post1/</link>
+      <pubDate>Thu, 08 Mar 2018 00:19:51 -0800</pubDate>
       
-      <guid>https://hellohaileys.github.io/post/hello/</guid>
-      <description>Diane iz da greatest bloggerrrr.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://hellohaileys.github.io/post/testing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hellohaileys.github.io/post/testing/</guid>
-      <description></description>
+      <guid>https://hellohaileys.github.io/post/post1/</guid>
+      <description>SAME STUFF.. This is a test blog post
+This is a bold font this is italics IDK what this is.. Italics? -This is a thing too. Maybe?-
+-Jordan</description>
     </item>
     
   </channel>

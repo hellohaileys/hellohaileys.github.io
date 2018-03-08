@@ -1,15 +1,15 @@
 +++
 type = "itemized"
-author = "George Jetson"
+author = "Diane"
 date = "2017-06-22"
-title = "Fancy App 1"
-description = "Application for doing cool things."
+title = "Curl Stuff"
+description = "This is what I use to define my curls"
 featured = ""
 featuredpath = ""
 featuredalt = ""
 categories = [""]
 linktitle = ""
-format = "Android"
+format = "Shea Moisture"
 link = "#"
 +++
 

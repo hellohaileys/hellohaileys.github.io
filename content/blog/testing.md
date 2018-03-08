@@ -11,3 +11,12 @@ title = "Test Blog"
 type = "post"
 
 +++
+
+#This is a test blog post
+
+**This is a bold font**
+*this is italics*
+_IDK what this is.. Italics?_
+-This is a thing too. Maybe?-
+
+-Jordan
