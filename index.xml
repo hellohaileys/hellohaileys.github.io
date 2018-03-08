@@ -6,18 +6,21 @@
     <description>Recent content on Hello Haileys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Mar 2018 22:10:50 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Mar 2018 23:39:22 -0800</lastBuildDate>
     
 	<atom:link href="https://hellohaileys.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello World</title>
-      <link>https://hellohaileys.github.io/post/hello/</link>
-      <pubDate>Wed, 07 Mar 2018 22:10:50 -0800</pubDate>
+      <title>Testing</title>
+      <link>https://hellohaileys.github.io/post/testing/</link>
+      <pubDate>Wed, 07 Mar 2018 23:39:22 -0800</pubDate>
       
-      <guid>https://hellohaileys.github.io/post/hello/</guid>
-      <description>Diane iz da greatest bloggerrrr.</description>
+      <guid>https://hellohaileys.github.io/post/testing/</guid>
+      <description>This is a test for Diane&amp;rsquo;s blog.
+This is bold
+#Header regular text italic
+JORDAN is great DIANE is amazing</description>
     </item>
     
     <item>
@@ -91,15 +94,6 @@ appropriate version for your os and architecture.&lt;/p&gt;
 
 &lt;p&gt;More complete instructions are available at &lt;a href=&#34;https://hellohaileys.github.io/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;
 &lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://hellohaileys.github.io/post/testing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hellohaileys.github.io/post/testing/</guid>
-      <description></description>
     </item>
     
   </channel>

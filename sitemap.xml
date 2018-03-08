@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hellohaileys.github.io/post/hello/</loc>
-    <lastmod>2018-03-07T22:10:50-08:00</lastmod>
+    <loc>https://hellohaileys.github.io/post/testing/</loc>
+    <lastmod>2018-03-07T23:39:22-08:00</lastmod>
   </url>
   
   <url>
@@ -77,7 +77,7 @@
   
   <url>
     <loc>https://hellohaileys.github.io/</loc>
-    <lastmod>2018-03-07T22:10:50-08:00</lastmod>
+    <lastmod>2018-03-07T23:39:22-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -95,12 +95,8 @@
   
   <url>
     <loc>https://hellohaileys.github.io/post/</loc>
-    <lastmod>2018-03-07T22:10:50-08:00</lastmod>
+    <lastmod>2018-03-07T23:39:22-08:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hellohaileys.github.io/post/testing/</loc>
   </url>
   
   <url>
@@ -111,6 +107,12 @@
   <url>
     <loc>https://hellohaileys.github.io/tags/tutorial/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hellohaileys.github.io/categories/vibes/</loc>
+    <lastmod>2018-03-07T23:39:22-08:00</lastmod>
     <priority>0</priority>
   </url>
   
