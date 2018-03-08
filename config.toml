@@ -74,7 +74,7 @@ canonifyURLs = true
 # prefer to use. See Staticman.yml for additional settings.
 [params.staticman]
   # Sets Statiman to be active
-  staticman = false
+  staticman = true
   # Sets the location for Staticman to connect to
   username  = "jordanhailey"
   repo      = "hellohaileys.github.io"
