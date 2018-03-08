@@ -6,6 +6,7 @@ linktitle = ""
 featured = ""
 featuredpath = ""
 featuredalt = ""
-draft: "true"
+draft = "true"
+date = "{{ .Date }}"
 
 +++

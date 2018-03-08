@@ -1,7 +1,7 @@
 +++
 author = ""
 categories = [""]
-date = ""
+date = "{{ .Date }}"
 description = ""
 featured = ""
 featuredalt = ""
