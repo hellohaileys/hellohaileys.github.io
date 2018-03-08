@@ -100,7 +100,7 @@ canonifyURLs = true
     # Sets Image to be a cirlce
     circle    = false
     # Sets Image to be Future Imperfect's hexagon
-    imperfect = true
+    imperfect = false
     width     = ""
     alt       = "Hello Haileys"
 
