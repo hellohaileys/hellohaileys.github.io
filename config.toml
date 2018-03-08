@@ -98,7 +98,7 @@ canonifyURLs = true
   [params.intro.pic]
     src       = "/img/main/HelloHaileysBlogLogo.jpg"
     # Sets Image to be a cirlce
-    circle    = false
+    circle    = true
     # Sets Image to be Future Imperfect's hexagon
     imperfect = false
     width     = ""
