@@ -96,11 +96,11 @@ canonifyURLs = true
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
-    src       = "/img/main/HelloHaileysBlogLogo.jpg"
+    src       = "/img/main/HelloHaileysLogo.jpeg"
     # Sets Image to be a cirlce
-    circle    = true
+    circle    = false
     # Sets Image to be Future Imperfect's hexagon
-    imperfect = false
+    imperfect = true
     width     = ""
     alt       = "Hello Haileys"
 
