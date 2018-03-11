@@ -77,15 +77,15 @@ canonifyURLs = true
 # prefer to use. See Staticman.yml for additional settings.
 [params.staticman]
   # Sets Statiman to be active
-  staticman = false
+  #staticman = false
   # Sets the location for Staticman to connect to
-  username  = "hellohaileys"
-  repo      = "hellohaileys.github.io"
-  branch    = "master"
+  #username  = "hellohaileys"
+  #repo      = "hellohaileys.github.io"
+  #branch    = "master"
 
   [params.staticman.recaptcha]
-    sitekey = "6Ley7EsUAAAAAKaChbxJk3FV4fWCOq5qa1cAsCAG"
-    secret  = "6Ley7EsUAAAAAJGCYJXaNQKwhm-4mwVkDs_3CnKe"
+    #sitekey = "6Ley7EsUAAAAAKaChbxJk3FV4fWCOq5qa1cAsCAG"
+    #secret  = "6Ley7EsUAAAAAJGCYJXaNQKwhm-4mwVkDs_3CnKe"
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
