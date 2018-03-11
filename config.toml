@@ -4,7 +4,7 @@ title = "Hello Haileys"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-#disqusShortname = "HelloHaileys"
+disqusShortname = "HelloHaileys"
 googleAnalytics = ""
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 canonifyURLs = true
 # and if you think your md file names or locations might change:
 [permalinks]
-    post = "/blog/:title/"
+    post = "blog/:title/"
 
 [params]
   # Sets the meta tag description
@@ -41,7 +41,7 @@ canonifyURLs = true
   # apple-touch-icon-precomposed.png, favicon.png, favicon.ico, and mstile.png.
   # These are stored in the favicon folder. See the following for more information:
   # https://github.com/audreyr/favicon-cheat-sheet
-  loadFavicon          = false
+  loadFavicon          = true
   faviconVersion       = ""
   # Sets Social Share links to appear on posts
   socialShare          = true
@@ -77,7 +77,7 @@ canonifyURLs = true
 # prefer to use. See Staticman.yml for additional settings.
 [params.staticman]
   # Sets Statiman to be active
-  staticman = true
+  staticman = false
   # Sets the location for Staticman to connect to
   username  = "hellohaileys"
   repo      = "hellohaileys.github.io"

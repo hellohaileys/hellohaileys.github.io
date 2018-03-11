@@ -5,7 +5,7 @@
     <input type="hidden" name="options[redirect]" value="{{ .Site.BaseURL }}{{ .RelPermalink }}">
     <input type="hidden" name="options[entryId]" value="{{ .UniqueID }}">
     <input required name="fields[name]" type="text" placeholder="Your name (Required)">
-    <!-- <input name="fields[website]" type="text" placeholder="Your website"> -->
+    <input name="fields[website]" type="text" placeholder="Your website">
     <input required name="fields[email]" type="email" placeholder="Your email address (Required for Gravatar)">
     <textarea required name="fields[body]" placeholder='Your message. Feel free to use Markdown (Google "Markdown Cheat Sheet").' rows="10"></textarea>
     <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ .Site.Params.staticman.recaptcha.sitekey }}">
