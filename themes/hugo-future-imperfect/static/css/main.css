@@ -808,19 +808,9 @@
 			@media screen and (max-width: 736px) {
 
 				.image.featured {
-					margin: 0 0 1.5em 0;
+					margin: 1.5em auto;
 				}
 
-			}
-
-		.image.main {
-			display: block;
-			margin: 0 0 3em 0;
-			width: 100%;
-		}
-
-			.image.main img {
-				width: 100%;
 			}
 
 /* List */
