@@ -804,6 +804,17 @@
 				width: 100%;
 			}
 
+			.image.natural {
+				display: block;
+				margin: auto;
+				clear: both;
+				max-width: 66%;
+			}
+
+				.image.natural img {
+					width: 100%;
+				}
+
 			@media screen and (max-width: 736px) {
 
 				.image.featured {
