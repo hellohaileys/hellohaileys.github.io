@@ -12,7 +12,7 @@ type = "post"
 
 +++
 
-<a class="image natural" href="https://s3-us-west-2.amazonaws.com/hellohaileys/DSC_3685.jpg" data-fancybox="group" data-caption="Engagement Photo">
+<a class="natural" href="https://s3-us-west-2.amazonaws.com/hellohaileys/DSC_3685.jpg" data-fancybox="group" data-caption="Engagement Photo">
   <img src="https://s3-us-west-2.amazonaws.com/hellohaileys/DSC_3685.jpg" alt="DSC_3685"/>
 </a>
 
@@ -24,7 +24,7 @@ The sweet thing is, when it's his turn to retell the story about how we met, it 
 
 Jordan and I have this inside joke that when I straighten my hair, his white wife is the one he's walking around with. Although he does appreciate the straight hair, he prefers it curly. That's what I always felt was right for me. And that's part of the reason I knew he was the one I wanted to marry. Back when I was single, I used to say that whoever I end up with must love my curls more than the straight hair.
 
-<a class="image natural" href="https://s3-us-west-2.amazonaws.com/hellohaileys/dsc_4036.jpg" data-fancybox="group" data-caption="Engagement Photo">
+<a class="natural" href="https://s3-us-west-2.amazonaws.com/hellohaileys/dsc_4036.jpg" data-fancybox="group" data-caption="Engagement Photo">
   <img src="https://s3-us-west-2.amazonaws.com/hellohaileys/dsc_4036.jpg" alt="dsc_4036"/>
 </a>
 

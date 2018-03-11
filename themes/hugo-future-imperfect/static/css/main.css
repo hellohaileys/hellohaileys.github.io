@@ -804,14 +804,14 @@
 				width: 100%;
 			}
 
-			.image.natural {
+			.natural {
 				display: block;
 				margin: auto;
 				clear: both;
 				max-width: 66%;
 			}
 
-				.image.natural img {
+				.natural img {
 					width: 100%;
 				}
 
