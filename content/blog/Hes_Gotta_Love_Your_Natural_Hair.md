@@ -12,7 +12,10 @@ type = "post"
 
 +++
 
-<img class="image featured" src="https://hellohaileys.files.wordpress.com/2018/02/dsc_3685.jpg?w=1368" alt="DSC_3685"/>
+<a href="https://hellohaileys.files.wordpress.com/2018/02/dsc_3685.jpg?w=1368" data-fancybox="group" data-caption="Engagement Photo">
+  <img class="image featured" src="https://hellohaileys.files.wordpress.com/2018/02/dsc_3685.jpg?w=1368" alt="DSC_3685"/>
+</a>
+
 
 I remember the night I met Jordan. I had just cut my hair pretty short and was attempting to rock corn rows on the side with the rest of my curls. The hair cut didn't quite go as planned and I didn't feel like I was looking my prettiest.
 

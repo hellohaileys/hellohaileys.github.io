@@ -4,12 +4,15 @@ title = "Hello Haileys"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "HelloHaileys"
+#disqusShortname = "HelloHaileys"
 googleAnalytics = ""
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
 canonifyURLs = true
+# and if you think your md file names or locations might change:
+[permalinks]
+    post = "/blog/:title/"
 
 [params]
   # Sets the meta tag description
@@ -81,8 +84,8 @@ canonifyURLs = true
   branch    = "master"
 
   [params.staticman.recaptcha]
-    sitekey = "SITE_KEY"
-    secret  = "ENCRYPTED_SECRET"
+    sitekey = "6Ley7EsUAAAAAKaChbxJk3FV4fWCOq5qa1cAsCAG"
+    secret  = "6Ley7EsUAAAAAJGCYJXaNQKwhm-4mwVkDs_3CnKe"
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
