@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hello Haileys</title>
-    <link>https://hellohaileys.github.io/categories/</link>
+    <link>https://hellohaileys.com/categories/</link>
     <description>Recent content in Categories on Hello Haileys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://hellohaileys.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hellohaileys.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Confidence</title>
-      <link>https://hellohaileys.github.io/categories/confidence/</link>
+      <link>https://hellohaileys.com/categories/confidence/</link>
       <pubDate>Mon, 05 Mar 2018 12:00:00 -0800</pubDate>
       
-      <guid>https://hellohaileys.github.io/categories/confidence/</guid>
+      <guid>https://hellohaileys.com/categories/confidence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hair Routine</title>
-      <link>https://hellohaileys.github.io/categories/hair-routine/</link>
+      <link>https://hellohaileys.com/categories/hair-routine/</link>
       <pubDate>Thu, 08 Mar 2018 12:00:00 -0800</pubDate>
       
-      <guid>https://hellohaileys.github.io/categories/hair-routine/</guid>
+      <guid>https://hellohaileys.com/categories/hair-routine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Love</title>
-      <link>https://hellohaileys.github.io/categories/love/</link>
+      <link>https://hellohaileys.com/categories/love/</link>
       <pubDate>Mon, 05 Mar 2018 12:00:00 -0800</pubDate>
       
-      <guid>https://hellohaileys.github.io/categories/love/</guid>
+      <guid>https://hellohaileys.com/categories/love/</guid>
       <description></description>
     </item>
     
