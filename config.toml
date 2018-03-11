@@ -79,7 +79,7 @@ canonifyURLs = true
   # Sets Statiman to be active
   staticman = true
   # Sets the location for Staticman to connect to
-  username  = "jordanhailey"
+  username  = "hellohaileys"
   repo      = "hellohaileys.github.io"
   branch    = "master"
 
