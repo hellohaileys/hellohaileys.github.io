@@ -796,24 +796,14 @@
 
 		.image.featured {
 			display: block;
-			margin: 0 0 3em 0;
-			width: 100%;
+			margin: 3em auto;
+			clear: both;
+			width: 66%;
 		}
 
 			.image.featured img {
 				width: 100%;
 			}
-
-			.natural {
-				display: block;
-				margin: auto;
-				clear: both;
-				max-width: 66%;
-			}
-
-				.natural img {
-					width: 100%;
-				}
 
 			@media screen and (max-width: 736px) {
 

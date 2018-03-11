@@ -92,9 +92,9 @@ canonifyURLs = true
 [params.intro]
   header    = "Hello Haileys"
 
-  paragraph = "Paragraph about something."
+  paragraph = "Love & Curl Love"
 
-  about     = "About Us...."
+  about     = "We are a husband and wife team who work to bring you a blog that serves as our passion passport."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
