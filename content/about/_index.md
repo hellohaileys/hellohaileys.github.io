@@ -2,7 +2,7 @@
 title = "About Hello Haileys"
 +++
 
-<a class="image featured" href="https://s3-us-west-2.amazonaws.com/hellohaileys/DSC_3459.jpg" data-fancybox="group" data-caption="He's Gotta Love Your Natural Hair">
+<a class="image featured" href="https://s3-us-west-2.amazonaws.com/hellohaileys/DSC_3459.jpg" data-fancybox="group" data-caption="Jordan and Diane">
   <img src="https://s3-us-west-2.amazonaws.com/hellohaileys/DSC_3459.jpg" alt="About Us"/>
 </a>
 
