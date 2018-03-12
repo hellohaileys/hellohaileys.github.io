@@ -1,6 +1,6 @@
 +++
 author = "Diane"
-categories = ["Hair Routine"]
+categories = ["Hair"]
 date = "2018-03-08T12:00:00-08:00"
 description = "D's Hair Routine, and why I keep the products minimal."
 featured = ""
@@ -14,9 +14,10 @@ draft= "false"
 +++
 
 
-<a class="image featured" href="https://hellohaileys.files.wordpress.com/2018/03/lrm_export_20180302_010537.jpg" data-fancybox="group" data-caption="Engagement Photo">
+<a class="image featured" href="https://hellohaileys.files.wordpress.com/2018/03/lrm_export_20180302_010537.jpg" data-fancybox="group" data-caption="Products">
   <img src="https://hellohaileys.files.wordpress.com/2018/03/lrm_export_20180302_010537.jpg"/>
 </a>
+
 
 
 Most naturalistas are hair junkies.
@@ -42,6 +43,6 @@ So, have fun with your natural hair journey. Kinky/curly hair is an enigma. What
 
 I'd love to hear what you're currently using for your hair routine and how you're finding it... Leave a comment xx
 
-<a class="image featured" href="https://hellohaileys.files.wordpress.com/2018/03/img_20180227_185256_012-013.jpeg" data-fancybox="group" data-caption="Engagement Photo">
+<a class="image featured" href="https://hellohaileys.files.wordpress.com/2018/03/img_20180227_185256_012-013.jpeg" data-fancybox="group" data-caption="Winter Curls">
 	<img src="https://hellohaileys.files.wordpress.com/2018/03/img_20180227_185256_012-013.jpeg"/>
 </a>

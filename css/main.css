@@ -1343,6 +1343,10 @@
             border-bottom-color: transparent;
         }
 
+				#content a .image {
+					border-bottom-color: transparent;
+				}
+
     #content blockquote,
 		#content p,
 		#content ul{
