@@ -14,17 +14,17 @@ draft= "false"
 +++
 
 
+
+
+
+
+Most naturalistas are hair junkies. Not necessarily because we're hoarders, but because we're constantly on the lookout for the next "best" hair product. Something that's gonna save us time and give our hair that perfect bounce...
+
+I don't know if it's possible to reach that point of being perfectly happy with our hair. Personally, even on good hair days I could walk into a shop, see a new product, and think "maybe this is going to revolutionise the way I do my hair".
+
 <a class="image featured" href="/img/2018/03/products.jpg" data-fancybox="group" data-caption="Products">
   <img src="/img/2018/03/products.jpg"/>
 </a>
-
-
-
-Most naturalistas are hair junkies.
-
-Not necessarily because we're hoarders, but because we're constantly on the lookout for the next "best" hair product. Something that's gonna save us time and give our hair that perfect bounce.
-
-I don't know if it's possible to reach that point of being perfectly happy with our hair. Personally, even on good hair days I could walk into a shop, see a new product, and think "maybe this is going to revolutionise the way I do my hair".
 
 Thankfully Jordan has helped me to think, slightly, more logically. Now that I've moved to the States, I have more hair products and brands than I've ever had at my disposal in South Africa. Jordan has just given me one request: Don't buy new products until you've finished using your current stash. Fair enough. As a single gal, I had so many products that were just standing around collecting dust, and I never ended up using them.
 
