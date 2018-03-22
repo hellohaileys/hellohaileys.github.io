@@ -14,7 +14,7 @@ draft= "false"
 +++
 
 <a class="image featured" href="#" data-fancybox="group" data-caption="He's Gotta Love Your Natural Hair">
-  <img src="..../img/2018/03/05/dsc_3685.jpg" alt="Jordan and Diane"/>
+  <img src="/img/2018/03/05/dsc_3685.jpg" alt="Jordan and Diane"/>
 </a>
 
 
@@ -26,7 +26,7 @@ The sweet thing is, when it's his turn to retell the story about how we met, it 
 Jordan and I have this inside joke that when I straighten my hair, his white wife is the one he's walking around with. Although he does appreciate the straight hair, he prefers it curly. That's what I always felt was right for me. And that's part of the reason I knew he was the one I wanted to marry. Back when I was single, I used to say that whoever I end up with must love my curls more than the straight hair.
 
 <a class="image featured" href="#" data-fancybox="group" data-caption="He's Gotta Love Your Natural Hair">
-  <img src="..../img/2018/03/dsc_4036.jpg" alt="Jordan and Diane 2"/>
+  <img src="/img/2018/03/dsc_4036.jpg" alt="Jordan and Diane 2"/>
 </a>
 
 Someone once told me that some guys view you as "lazy" if your hair isn't straightened. Well, at least certain ones in South Africa. I found that quite sad. Why would you want to be with someone who thinks you're lazy for being natural? In fact, my go to lazy hairstyle is spending one or two hours straightening it (which I did for the first time in the States the other day, and ended up triggering the fire alarm, to Jordan's amusement- yes, there's that much smoke involved, apparently) and then being able to wear it straight for as long as I can before washing it. On the other hand, having natural/curly hair requires washing it more regularly, using more hair products and caring for your hair as part of a long term lifestyle. Well, at least for me anyway.
