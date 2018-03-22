@@ -14,8 +14,8 @@ draft= "false"
 +++
 
 
-<a class="image featured" href="https://hellohaileys.files.wordpress.com/2018/03/lrm_export_20180302_010537.jpg" data-fancybox="group" data-caption="Products">
-  <img src="https://hellohaileys.files.wordpress.com/2018/03/lrm_export_20180302_010537.jpg"/>
+<a class="image featured" href="/img/2018/03/products.jpg" data-fancybox="group" data-caption="Products">
+  <img src="/img/2018/03/products.jpg"/>
 </a>
 
 
@@ -43,6 +43,6 @@ So, have fun with your natural hair journey. Kinky/curly hair is an enigma. What
 
 I'd love to hear what you're currently using for your hair routine and how you're finding it... Leave a comment xx
 
-<a class="image featured" href="https://hellohaileys.files.wordpress.com/2018/03/img_20180227_185256_012-013.jpeg" data-fancybox="group" data-caption="Winter Curls">
-	<img src="https://hellohaileys.files.wordpress.com/2018/03/img_20180227_185256_012-013.jpeg"/>
+<a class="image featured" href="/img/2018/03/winter.jpeg" data-fancybox="group" data-caption="Winter Curls">
+	<img src="/img/2018/03/winter.jpeg"/>
 </a>
