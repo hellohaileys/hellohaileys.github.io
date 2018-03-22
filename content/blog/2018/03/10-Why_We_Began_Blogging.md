@@ -13,6 +13,15 @@ draft = "false"
 
 +++
 
+
+Hey there! So...our blog is finally up! I'd been toying with the idea for years, and finally last September, while Jordan and I were still in a long distance relationship I sent him a text, finally admitting to myself that I wanted to start a blog one day.
+
+6 Months later, the idea has finally come together. I always wanted to blog about curly hair. I'm passionate about natural hair and felt all my trial and error experiences could be passed on to other curly girls. Often I'd get stopped in the street by people asking to touch my hair, or for hair advice. If only I had a blog to reference them to.
+
+Then I got married, moved away from home and started the process of adapting to married life in a new country. I needed a hobby, one that would allow me to unleash my creativity. And I've definitely been having fun with the process.
+
+Here are some pros to blogging if you're considering starting one of your own:
+
 <a class="image featured" href="/img/2018/03/sofa_blogging.jpeg" data-fancybox="group" data-caption="Working on the blog together.">
   <img src="/img/2018/03/sofa_blogging.jpeg" alt="Working on the blog together."/>
 </a>
@@ -22,18 +31,6 @@ draft = "false"
   <img src="/img/2018/03/sofa_blogging2.jpeg" alt="Working on the blog together."/>
 </a>
 </div>
-
-Hey there!
-
-So...our blog is finally up!
-
-I'd been toying with the idea for years, and finally last September, while Jordan and I were still in a long distance relationship I sent him a text, finally admitting to myself that I wanted to start a blog one day.
-
-6 Months later, the idea has finally come together. I always wanted to blog about curly hair. I'm passionate about natural hair and felt all my trial and error experiences could be passed on to other curly girls. Often I'd get stopped in the street by people asking to touch my hair, or for hair advice. If only I had a blog to reference them to.
-
-Then I got married, moved away from home and started the process of adapting to married life in a new country. I needed a hobby, one that would allow me to unleash my creativity. And I've definitely been having fun with the process.
-
-Here are some pros to blogging if you're considering starting one of your own:
 
 **1. It's a modern way of being creative.**
 

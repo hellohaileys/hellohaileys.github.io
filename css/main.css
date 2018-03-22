@@ -810,9 +810,20 @@
 			border-bottom-color: transparent !important;
 		}
 
-			.image.featured img {
-				width: 100%;
-			}
+		.image.featured img {
+			-moz-transition: -moz-transform 0.2s ease-out !important;
+			-webkit-transition: -webkit-transform 0.2s ease-out !important;
+			-ms-transition: -ms-transform 0.2s ease-out !important;
+			transition: transform 0.2s ease-out !important;
+			width: 100% !important;
+		}
+
+		.image.featured:hover img {
+			-moz-transform: scale(1.05) !important;
+			-webkit-transform: scale(1.05) !important;
+			-ms-transform: scale(1.05) !important;
+			transform: scale(1.05) !important;
+		}
 
 			@media screen and (max-width: 736px) {
 
