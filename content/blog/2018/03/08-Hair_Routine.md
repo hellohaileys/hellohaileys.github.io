@@ -1,7 +1,7 @@
 +++
 author = "Diane"
 categories = ["Hair"]
-date = "2018-03-08T12:00:00-08:00"
+date = "2018-03-08"
 description = "D's Hair Routine, and why I keep the products minimal."
 featured = "products.jpg"
 featuredalt = "Hair Products"
