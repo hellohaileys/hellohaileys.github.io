@@ -1,5 +1,5 @@
 +++
-author = "D Hailey"
+author = "Diane"
 categories = ["Blogging", "Creativity"]
 date = "2018-03-10"
 description = "Why we started a blog and why you might want to consider it too."
@@ -50,8 +50,6 @@ If you have a cooking blog, people can keep up with your cooking and recipes, if
 **4. You become a better photographer / photo taker.**
 
 We aren't photographers, but we do enjoy taking pictures. While planning our blog we researched and practiced photography techniques, and we still have a lot to learn (like removing the thrown-about pillows out of our picture above). It's a fun and useful skill to have!
-
-This one might sound silly, but I've found this to be true, more so if your appearance is included in the blog. With the cold rainy weather in Oregon, one tends to feel like living in pajamas 24/7. When we go somewhere, I try to look cute in case we have a cute photo opportunity. So it's a win-win. Look good for your bae, yourself, and your blog!
 
 **5. It's free.**
 

@@ -2,13 +2,13 @@
 title = "About Hello Haileys"
 +++
 
-<a class="AboutUs image featured" href="https://s3-us-west-2.amazonaws.com/hellohaileys/DSC_3459.jpg" data-fancybox="group" data-caption="Jordan and Diane">
-  <img src="https://s3-us-west-2.amazonaws.com/hellohaileys/DSC_3459.jpg" alt="About Us"/>
+<a class="AboutUs image featured" href="/img/about/DSC_3459.jpg" data-fancybox="group" data-caption="Jordan and Diane">
+  <img src="/img/about/DSC_3459.jpg" alt="About Us"/>
 </a>
 
 <div class="hidden">
-<a class="AboutUs image featured" href="https://s3-us-west-2.amazonaws.com/hellohaileys/DSC_3480.jpg" data-fancybox="group" data-caption="Jordan and Diane">
-  <img src="https://s3-us-west-2.amazonaws.com/hellohaileys/DSC_3480.jpg" alt="About Us"/>
+<a class="AboutUs image featured" href="/img/about/DSC_3480.jpg" data-fancybox="group" data-caption="Jordan and Diane">
+  <img src="/img/about/DSC_3480.jpg" alt="About Us"/>
 </a>
 </div>
 
