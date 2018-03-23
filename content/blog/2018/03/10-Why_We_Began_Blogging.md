@@ -16,7 +16,7 @@ draft = "false"
 
 Hey there! So...our blog is finally up! I'd been toying with the idea for years, and finally last September, while Jordan and I were still in a long distance relationship I sent him a text, finally admitting to myself that I wanted to start a blog one day.
 
-6 Months later, the idea has finally come together. I always wanted to blog about curly hair. I'm passionate about natural hair and felt all my trial and error experiences could be passed on to other curly girls. Often I'd get stopped in the street by people asking to touch my hair, or for hair advice. If only I had a blog to reference them to.
+Six months later, the idea has finally come together. I always wanted to blog about curly hair. I'm passionate about natural hair and felt all my trial and error experiences could be passed on to other curly girls. Often I'd get stopped in the street by people asking to touch my hair, or for hair advice. If only I had a blog to reference them to.
 
 Then I got married, moved away from home and started the process of adapting to married life in a new country. I needed a hobby, one that would allow me to unleash my creativity. And I've definitely been having fun with the process.
 
@@ -46,7 +46,7 @@ If you have a cooking blog, people can keep up with your cooking and recipes, if
 
 **4. You become a better photographer / photo taker.**
 
-We aren't photographers, but we do enjoy taking pictures. While planning our blog we researched and practiced photography techniques, and we still have a lot to learn (like removing the thrown-about pillows out of our picture above). It's a fun and useful skill to have!
+We aren't photographers, but we do enjoy taking pictures. While planning our blog we researched and practiced photography techniques, and we still have a lot to learn. All that being said, it's a fun and useful skill to have!
 
 **5. It's free.**
 
