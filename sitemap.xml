@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hellohaileys.github.io/blog/2018/04/04-road_trip_through_oregon/</loc>
+    <lastmod>2018-04-04T12:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hellohaileys.github.io/blog/2018/03/10-why_we_began_blogging/</loc>
     <lastmod>2018-03-10T00:00:00+00:00</lastmod>
   </url>
@@ -23,7 +28,7 @@
   
   <url>
     <loc>https://hellohaileys.github.io/blog/</loc>
-    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-04T12:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,7 +58,7 @@
   
   <url>
     <loc>https://hellohaileys.github.io/</loc>
-    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-04T12:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -64,11 +69,23 @@
   </url>
   
   <url>
+    <loc>https://hellohaileys.github.io/categories/oregon/</loc>
+    <lastmod>2018-04-04T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hellohaileys.github.io/contact/</loc>
   </url>
   
   <url>
     <loc>https://hellohaileys.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hellohaileys.github.io/categories/travel/</loc>
+    <lastmod>2018-04-04T12:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
