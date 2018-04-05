@@ -22,8 +22,9 @@ The first stop we made was in Jacksonville, Oregon. I didn't know this place exi
 <a class="image featured" href="/img/2018/04/2018-03-06 Jacksonville Levis Wall.jpeg" data-fancybox="group" data-caption="Jordan at Levi's wall.">
   <img src="/img/2018/04/2018-03-06 Jacksonville Levis Wall.jpeg" alt="Jordan at Levi's Wall"/>
 </a>
-<div class="hidden">
-</div>
+<a class="image featured" href="/img/2018/04/2018-03-06 Jacksonville Blue Door.jpg" data-fancybox="group" data-caption="A cute blue door in Jacksonville.">
+  <img src="/img/2018/04/2018-03-06 Jacksonville Blue Door.jpg" alt="Diane by a cute blue door in Jacksonville"/>
+</a>
 
 We only fully began to appreciate how lovely Jacksonville was in the day time (we first arrived late at night). As you enter you see plots of land with old houses and it does have a bit of a horror movie vibe at night upon entry, before reaching the main street. I really laughed out loud when we took the exit towards Jacksonville and Jordan says: "I hope it's okay to be black out here".
 
@@ -31,6 +32,9 @@ Turns out it was okay; and we later found out just how friendly the people are i
 
 We rented a place to stay using Airbnb. It was the best Airbnb experience of my life thus far! Our host was so gracious and accommodating. With 5 bottles of wine to choose from, ciders and snacks on arrival, we felt right at home. One of the cutest touches in our place was a pile of stones that the host requested guests to leave a message on, to be used to decorate her fire pit. So sweet!
 
+<a class="image featured" href="/img/2018/04/2018-03-06 Jacksonville Stones.jpeg" data-fancybox="group" data-caption="Little thing's AirBnb Superhosts will do.">
+  <img src="/img/2018/04/2018-03-06 Jacksonville Stones.jpeg" alt="Jacksonville AirBnb"/>
+</a>
 <a class="image featured" href="/img/2018/04/2018-03-06 Jacksonville Sofa.jpeg" data-fancybox="group" data-caption="Such a cozy AirBnb home.">
   <img src="/img/2018/04/2018-03-06 Jacksonville Sofa.jpeg" alt="Jacksonville AirBnb"/>
 </a>
@@ -39,18 +43,15 @@ She recommended we come back in the summer months to enjoy the variety of concer
 
 So if you're looking for a cute road trip stop in Southern Oregon, do yourself a favour and visit the cute, friendly town of Jacksonville, Oregon.
 
+
 <a class="image featured" href="/img/2018/04/2018-03-06 Jacksonville Barrel.jpeg" data-fancybox="group" data-caption="Jacksonville street corner.">
   <img src="/img/2018/04/2018-03-06 Jacksonville Barrel.jpeg" alt="Jacksonville Street Corner"/>
-</a>
-<a class="image featured" href="/img/2018/04/2018-03-06 Jacksonville Blue Door.jpg" data-fancybox="group" data-caption="Diane by a cute blue door.">
-  <img src="/img/2018/04/2018-03-06 Jacksonville Blue Door.jpg" alt="Diane by a cute blue door"/>
-</a>
-<a class="image featured" href="/img/2018/04/2018-03-06 Jacksonville Tobacco Wall.jpeg" data-fancybox="group" data-caption="Jacksonville's cute walls.">
-  <img src="/img/2018/04/2018-03-06 Jacksonville Tabacco Wall.jpeg" alt="Jacksonville's cute walls"/>
 </a>
 <a class="image featured" href="/img/2018/04/2018-03-06 Jacksonville Saloon.jpeg" data-fancybox="group" data-caption="Jacksonville's 'California Street'.">
   <img src="/img/2018/04/2018-03-06 Jacksonville Saloon.jpeg" alt="Jacksonville's 'California Street'"/>
 </a>
-<a class="image featured" href="/img/2018/04/2018-03-06 Jacksonville Stones.jpeg" data-fancybox="group" data-caption="Little thing's AirBnb Superhosts will do.">
-  <img src="/img/2018/04/2018-03-06 Jacksonville Stones.jpeg" alt="Jacksonville AirBnb"/>
-</a>
+<div class="hidden">
+  <a class="image featured" href="/img/2018/04/2018-03-06 Jacksonville Tobacco Wall.jpeg" data-fancybox="group" data-caption="Jacksonville's cute walls.">
+    <img src="/img/2018/04/2018-03-06 Jacksonville Tabacco Wall.jpeg" alt="Jacksonville's cute walls"/>
+  </a>
+</div>
