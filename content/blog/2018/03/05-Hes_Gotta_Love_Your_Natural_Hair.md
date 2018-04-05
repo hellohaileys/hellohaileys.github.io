@@ -1,6 +1,6 @@
 +++
 author = "Diane"
-categories = ["Love"]
+categories = ["Hair"]
 date = "2018-03-05"
 description = "Some thoughts about love and hair."
 featured = "dsc_4036.jpg"

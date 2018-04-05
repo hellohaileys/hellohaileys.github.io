@@ -1,6 +1,6 @@
 +++
 author = "Diane"
-categories = ["Travel", "Oregon"]
+categories = ["Travel"]
 date = "2018-04-04T12:00:00-07:00"
 description = "We set out on our first road trip together in the USA."
 featured = "2018-03-06 Jacksonville Levis Wall.jpeg"

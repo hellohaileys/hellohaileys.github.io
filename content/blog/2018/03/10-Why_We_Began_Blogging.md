@@ -1,6 +1,6 @@
 +++
 author = "Diane"
-categories = ["Blogging", "Creativity"]
+categories = ["Lifestyle"]
 date = "2018-03-10"
 description = "Why we started a blog and why you might want to consider it too."
 featured = "sofa_blogging.jpeg"
