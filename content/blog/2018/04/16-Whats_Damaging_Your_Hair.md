@@ -1,7 +1,7 @@
 +++
 author = "Diane"
 categories = ["Hair"]
-date = "2018-04-16T12:00:00-07:00"
+date = "2018-04-16T11:00:00-07:00"
 description = "Some Tough Lessons I've Learnt During My Natural Hair Journey."
 featured = "DamagingHairTitle-min.jpeg"
 featuredalt = "7 Ways You're Damaging Your Hair"
