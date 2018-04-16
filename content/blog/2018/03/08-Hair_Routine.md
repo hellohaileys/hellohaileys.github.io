@@ -41,7 +41,7 @@ It's currently winter, so I also use a diffuser on my hair dryer to dry my hair,
 
 So, have fun with your natural hair journey. Kinky/curly hair is an enigma. What works for one person, won't necessarily work for everyone. While pacing yourself with the amount of hair products you have on your shelves, try out different ones to see what works best for you.
 
-I'd love to hear what you're currently using for your hair routine and how you're finding it... Leave a comment xx
+I'd love to hear what you're currently using for your hair routine and how you're finding it... <a href="http://hellohaileys.com/blog/2018/03/08-hair_routine/#comment">Leave a comment xx</a>
 
 <a class="image featured" href="/img/2018/03/winter.jpeg" data-fancybox="group" data-caption="Winter Curls">
 	<img src="/img/2018/03/winter.jpeg"/>

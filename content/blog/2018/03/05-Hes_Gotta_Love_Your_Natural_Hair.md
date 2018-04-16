@@ -31,4 +31,4 @@ Someone once told me that some guys view you as "lazy" if your hair isn't straig
 
 What do you guys think? Does it matter if your significant other loves your hair more in its natural state?
 
-Leave a comment below xx
+<a href="http://hellohaileys.com/blog/2018/03/05-hes_gotta_love_your_natural_hair/#comment">Leave a comment below xx</a>

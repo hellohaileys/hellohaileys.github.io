@@ -66,4 +66,4 @@ Having a blog could impress a future employer when they search for your name onl
 
 So yeah, blogging might just be for you too.
 
-Have you ever considered, or are you currently considering starting a blog? Leave a comment below, we'd love to hear from you!
+Have you ever considered, or are you currently considering starting a blog? <a href="http://hellohaileys.com/blog/2018/03/10-why_we_began_blogging/#comment">Leave a comment below, we'd love to hear from you!</a>
