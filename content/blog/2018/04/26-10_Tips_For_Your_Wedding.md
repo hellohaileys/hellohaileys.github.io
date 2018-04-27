@@ -30,9 +30,11 @@ Wedding planning is pretty serious business. It's the first time you and your fu
 </a>
 
 **1. Set two budgets**
+
 Extra expenses often creep up drawing closer to your wedding day. When calculating your budget, calculate an extended budget in the event that you do need to spend on unexpected items.
 
 **2. Network**
+
 You can get some really good tips and find connections from speaking to people you know who've recently gotten married. They most likely have a few vendor's contact details in their phone book and know what the latest prices are. Going to your local bridal expo could also be helpful as they usually have discounts and all sorts of vendors to choose from. I found our photo booth provider at the Cape Town Bridal expo, despite not having planned to hire any additional vendors. But it was a fun day spent with my mom and it turned out to be pretty useful.
 
 **3. Have an intimate wedding**
