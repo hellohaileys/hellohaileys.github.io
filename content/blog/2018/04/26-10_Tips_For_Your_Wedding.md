@@ -4,7 +4,7 @@ categories = ["Love", "Weddings"]
 date = "2018-04-26T12:00:00-07:00"
 description = "10 lessons on wedding planning, from a couple who planned their own."
 featured = "10 Tips For Weddings.jpeg"
-featuredalt = ""
+featuredalt = "10 Tips on Planning Your Own Wedding"
 featuredpath = "date"
 linktitle = ""
 title = "10 Tips on Planning Your Own Wedding"
@@ -15,10 +15,9 @@ draft = "false"
 
 So you've just gotten engaged and you wake up with the biggest smile as you look at that gorgeous ring on your finger! That's before the rush of wedding planning has begun...
 
-<a class="image featured" href="img/2018/04/10 Tips For Weddings.jpeg" data-fancybox="group" data-caption="10 Tips on Planning Your Own Wedding">
-  <img src="img/2018/04/10 Tips For Weddings.jpeg" alt="10 Tips on Planning Your Own Wedding"/>
+<a class="image featured" href="/img/2018/04/10 Tips For Weddings.jpeg" data-fancybox="group" data-caption="10 Tips on Planning Your Own Wedding">
+  <img src="/img/2018/04/10 Tips For Weddings.jpeg" alt="10 Tips on Planning Your Own Wedding"/>
 </a>
-
 
 I never understood why wedding planners had a job. I assumed it was just another way for people to splurge on weddings. That's until Jordan and I had to plan our own.
 
@@ -26,8 +25,8 @@ The months leading up to your wedding has well meaning people continually asking
 
 Wedding planning is pretty serious business. It's the first time you and your future spouse have to host people and possibly the only occasion that you will have all your loved ones in the same space at the same time, so understandably you want it to go ahead without any glitches. If you decide to be more hands on with your wedding and plan it yourself, here are a few lessons and tips we've learnt from planning ours that we hope will help you with planning yours.
 
-<a class="image featured" href="img/2018/04/Wedding Pier.jpg" data-fancybox="group" data-caption="Wedding Day">
-  <img src="img/2018/04/Wedding Pier.jpg" alt="Wedding Day"/>
+<a class="image featured" href="/img/2018/04/Wedding Pier.jpg" data-fancybox="group" data-caption="Wedding Day">
+  <img src="/img/2018/04/Wedding Pier.jpg" alt="Wedding Day"/>
 </a>
 
 **1. Set two budgets**
@@ -48,8 +47,8 @@ Pinterest is the best and worst invention to help with wedding planning. Back in
 
 If you feel like you're taking on too many tasks, dip into your extra expenses budget (point 1 above) and save yourself the stress of trying to finish off many tasks for the sake of your sanity. Consider if you could rent items instead of purchasing them or if you really need the item all together.
 
-<a class="image featured" href="img/2018/04/Wedding Details.jpg" data-fancybox="group" data-caption="Wedding Details">
-  <img src="img/2018/04/Wedding Details.jpg" alt="Wedding Details"/>
+<a class="image featured" href="/img/2018/04/Wedding Details.jpg" data-fancybox="group" data-caption="Wedding Details">
+  <img src="/img/2018/04/Wedding Details.jpg" alt="Wedding Details"/>
 </a>
 
 **6. Write stuff down**
@@ -64,8 +63,8 @@ Planning your own wedding doesn't mean you have to do every single thing on your
 
 Everyone has their preferences and opinions, especially when it comes down to planning a wedding. For example, whenever people asked us what our wedding colours are and they found out that I wanted my bridesmaids to wear white, I'd often get a perplexed expression in response, because traditionally that's the brides colour. Not to say having bridesmaids wear white is right or wrong, it all comes down to preferences. Consider people's opinions, but to make things easier for yourselves, communicate with each other and decide on things as a couple. Because you'll be the ones who look back on those pictures the most.
 
-<a class="image featured" href="img/2018/04/Bridal Party.jpg" data-fancybox="group" data-caption="Bridal Party">
-  <img src="img/2018/04/Bridal Party.jpg" alt="Bridal Party"/>
+<a class="image featured" href="/img/2018/04/Bridal Party.jpg" data-fancybox="group" data-caption="Bridal Party">
+  <img src="/img/2018/04/Bridal Party.jpg" alt="Bridal Party"/>
 </a>
 
 **9. Choose two**
@@ -76,8 +75,8 @@ Jordan told me this as we went ahead with our wedding planning and it was some o
 
 Almost every bride I've spoken to had one or other "catastrophe" unfold on their wedding day, such as the cake didn't show up or the boquet of flowers didn't bloom. In my case, I completely lost my voice and had what apparently sounded like a "husky Russian accent" while saying my vows. When all else fails and there's nothing you can do about it, find the humour in it, it will likely make for a funny story in the near future.
 
-<a class="image featured" href="img/2018/04/Groomsmen.jpg" data-fancybox="group" data-caption="Groomsmen">
-  <img src="img/2018/04/Groomsmen.jpg" alt="Groomsmen"/>
+<a class="image featured" href="/img/2018/04/Groomsmen.jpg" data-fancybox="group" data-caption="Groomsmen">
+  <img src="/img/2018/04/Groomsmen.jpg" alt="Groomsmen"/>
 </a>
 
-Have you learnt anything from planning your wedding you'd like to share? Or if you might have a wedding in the future, do you find these tips helpful? <a href="http://hellohaileys.com/blog/2018/04/26-10_tips_for_your_wedding/#comment"> Leave a comment below! </a> xx
+Have you learnt anything from planning your wedding you'd like to share? Or if you might have a wedding in the future, do you find these tips helpful? <a href="http://hellohaileys.com/blog/2018/04/26-10_tips_for_your_wedding/#comment">Leave a comment below!</a> xx
