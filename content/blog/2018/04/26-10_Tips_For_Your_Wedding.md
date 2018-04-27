@@ -1,6 +1,6 @@
 +++
 author = "Diane"
-categories = ["Love", "Weddings"]
+categories = ["Weddings"]
 date = "2018-04-26T12:00:00-07:00"
 description = "10 lessons on wedding planning, from a couple who planned their own."
 featured = "10 Tips For Weddings.jpeg"
