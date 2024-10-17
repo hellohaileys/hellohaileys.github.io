@@ -73,7 +73,7 @@
 {{ if (not .Params.disable_highlight) }}
   {{ $highTheme := .Site.Params.highlightjsTheme }}
     {{ with .Site.Params.highlightjsVersion }}
-    <link href='{{ $.Site.Params.highlightjsCDN | default "//cdn.bootcss.com" }}/highlight.js/{{ . }}/styles/{{ $highTheme }}.min.css' rel='stylesheet' type='text/css' />
+    <link href='{{ $.Site.Params.highlightjsCDN | default "https://cdn.bootcss.com" }}/highlight.js/{{ . }}/styles/{{ $highTheme }}.min.css' rel='stylesheet' type='text/css' />
   {{ end }}
 {{ end }}
       <meta name="p:domain_verify" content="fcbd2de9b14197849bc1b83a341fdbed"/>
