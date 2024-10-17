@@ -39,7 +39,7 @@ We rented a place to stay using Airbnb. It was the best Airbnb experience of my 
   <img src="/img/2018/04/2018-03-06 Jacksonville Sofa.jpeg" alt="Jacksonville AirBnb"/>
 </a>
 
-She recommended we come back in the summer months to enjoy the variety of concerts held at the Britt Pavilion. After looking up a few of the artists (including Ziggy and Stephen Marley), we might find ourselves driving down there again in the near future! For more information about the Britt Fest lineup, check out http://www.brittfest.org/.
+She recommended we come back in the summer months to enjoy the variety of concerts held at the Britt Pavilion. After looking up a few of the artists (including Ziggy and Stephen Marley), we might find ourselves driving down there again in the near future! For more information about the Britt Fest lineup, check out https://www.brittfest.org/.
 
 So if you're looking for a cute road trip stop in Southern Oregon, do yourself a favour and visit the cute, friendly town of Jacksonville, Oregon.
 

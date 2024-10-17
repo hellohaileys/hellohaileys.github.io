@@ -51,7 +51,7 @@ Your hair needs some of its natural oils to keep healthy. By washing your hair t
 
 Many shampoos contain harmful ingredients, especially to curls. That's why naturalistas are turning to shampoos which specifically mention being silicone, paraban and sulfate free, as it prevents curly and coily hair from absorbing the moisture that these thirsty hair types need.
 
-What I found works best for me is only shampooing my hair when there is too much product build up. Otherwise, I'll only wash it every other day with a moisturizing conditioner. I wrote an article on my curly hair routine <a href="http://hellohaileys.com/blog/2018/03/08-hair_routine/">here</a>.
+What I found works best for me is only shampooing my hair when there is too much product build up. Otherwise, I'll only wash it every other day with a moisturizing conditioner. I wrote an article on my curly hair routine <a href="https://hellohaileys.com/blog/2018/03/08-hair_routine/">here</a>.
 
 **5. Not washing products out properly**
 
@@ -73,7 +73,7 @@ You don't have to have styling tools on the highest setting to have the results 
 
 The one time I had my hair braided was traumatic. The hairdresser pulled my hair so tightly, which I later found out wasn't necessary. What I should have done was ask friends for hair dresser referrals. Use someone that knows how to be gentle enough to your hair. If you braid your hair regularly, be kind to your hairline and take a break in between braided styles. Weaves are guilty of causing receded hairlines too. While doing research for this, I stumbled across a certain supermodel's receded hairline pictures, which is why I decided including this point was so important. Having regular tight braids or plaits is not worth the long term damaging effects to your hairline because no amount of money can truly fix it!
 
-Did you find any of this helpful or have you learnt any lessons about taking care of your hair that you wish you had known earlier? <a href="http://hellohaileys.com/blog/2018/04/16-whats_damaging_your_hair/#comment">Please share in the comments below.</a>
+Did you find any of this helpful or have you learnt any lessons about taking care of your hair that you wish you had known earlier? <a href="https://hellohaileys.com/blog/2018/04/16-whats_damaging_your_hair/#comment">Please share in the comments below.</a>
 
 <a class="image featured" href="/img/2018/04/FlowerWall-min.jpg" data-fancybox="group" data-caption="Appreciate your healthy natural hair!">
   <img src="/img/2018/04/FlowerWall-min.jpg" alt="Appreciate your healthy natural hair!"/>

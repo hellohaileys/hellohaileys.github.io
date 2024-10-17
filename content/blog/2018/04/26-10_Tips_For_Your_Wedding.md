@@ -81,4 +81,4 @@ Almost every bride I've spoken to had one or other "catastrophe" unfold on their
   <img src="/img/2018/04/Groomsmen.jpg" alt="Groomsmen"/>
 </a>
 
-Have you learnt anything from planning your wedding you'd like to share? Or if you might have a wedding in the future, do you find these tips helpful? <a href="http://hellohaileys.com/blog/2018/04/26-10_tips_for_your_wedding/#comment">Leave a comment below!</a> xx
+Have you learnt anything from planning your wedding you'd like to share? Or if you might have a wedding in the future, do you find these tips helpful? <a href="https://hellohaileys.com/blog/2018/04/26-10_tips_for_your_wedding/#comment">Leave a comment below!</a> xx

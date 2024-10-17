@@ -237,7 +237,7 @@ any questions you may have. We are here to help.
 
 <!--- External References -->
 
-[Branching Model]: http://nvie.com/posts/a-successful-git-branching-model/
+[Branching Model]: https://nvie.com/posts/a-successful-git-branching-model/
 [Git]: https://git-scm.com/downloads
 [GitHub Account]: https://github.com/login
 [GitHub Authentication]: https://help.github.com/articles/set-up-git#next-steps-authenticating-with-github-from-git

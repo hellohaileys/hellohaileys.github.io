@@ -1,7 +1,7 @@
 # Hugo Future Imperfect
 
 Future Imperfect is a responsive theme tailored for blogging. The name is of no
-coincidence, because it is a port of [HTML5 UP's theme](http://html5up.net/future-imperfect)
+coincidence, because it is a port of [HTML5 UP's theme](https://html5up.net/future-imperfect)
 by the same name. In addition to the original features, there are more features
 that have been added for you to utilize.
 
@@ -114,7 +114,7 @@ the website:
 hugo server
 ```
 
-You will then be able to view your live website at [localhost:1313](http://localhost:1313).
+You will then be able to view your live website at [localhost:1313](https://localhost:1313).
 
 ### Hugo's website SEO
 
@@ -153,7 +153,7 @@ the theme also includes the following codes that I hope you find useful:
 fancybox, img-post, img-fit, and url-link.
 
 ### fancybox
-[Fancybox](http://fancyapps.com/fancybox/3/) is a jQuery lightbox script for displaying images, videos and more. It is touch
+[Fancybox](https://fancyapps.com/fancybox/3/) is a jQuery lightbox script for displaying images, videos and more. It is touch
 enabled, responsive and fully customizable. The commands are shown below:
 
 **Named**

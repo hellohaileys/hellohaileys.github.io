@@ -19,7 +19,7 @@ If California is for dreamers, catch me sleeping.
   <img src="/img/2018/04/California Dreaming.jpg" alt="California Dreaming Wall"/>
 </a>
 
-(Continuing on from our last story, where we stopped in Jacksonville, which you can read about <a href="http://hellohaileys.com/blog/2018/04/04-road_trip_through_oregon/">here...</a>)
+(Continuing on from our last story, where we stopped in Jacksonville, which you can read about <a href="https://hellohaileys.com/blog/2018/04/04-road_trip_through_oregon/">here...</a>)
 
 Ever since I arrived to Portland in January, it's been cloudy and rainy. So you can imagine how thrilled I was to go to California, where the sunshine and vitamin D is abundant.
 
